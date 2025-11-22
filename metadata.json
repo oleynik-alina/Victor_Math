@@ -1,0 +1,5 @@
+{
+  "name": "Vitya's Math Helper",
+  "description": "An AI tutor that analyzes handwritten math solutions to provide method-specific hints.",
+  "requestFramePermissions": []
+}
